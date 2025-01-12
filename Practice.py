@@ -11,3 +11,4 @@ class Dogs(Pets):
 dikz = Dogs()
 print(Dogs.a, Dogs.b, dikz.Bark())
 dikz.Bark()
+dikz.Bark()
